@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/brave/.dotnet/store/|arch|/|tfm|",
+      "/home/brave/.nuget/packages"
+    ]
+  }
+}
